@@ -1,5 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
+#include<math.h>
 #define MAX 5
 int stack_arr[MAX];
 int first =-1;
